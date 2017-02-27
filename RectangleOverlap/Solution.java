@@ -7,6 +7,8 @@ import Util.Point;
  */
 public class Solution {
     /**
+     * Given two rectangles, find if the given two rectangles overlap or not.
+     *
      * @param l1 top-left coordinate of first rectangle
      * @param r1 bottom-right coordinate of first rectangle
      * @param l2 top-left coordinate of second rectangle
